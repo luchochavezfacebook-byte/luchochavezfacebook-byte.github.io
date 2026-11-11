@@ -1,17 +1,17 @@
 {
-  "version_code": 3063,
-  "version_name": "1.4.31",
+  "version_code": 3064,
+  "version_name": "1.4.32",
   "update_available": true,
   "force_update": false,
   "apk_variants": {
     "arm32": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v63-premium-3063/TV-FULL-PRO-V63-ARM32-PRUEBA-FIRMADA.apk",
-      "sha256": "30d93b433484e6e8e4ed1936a13762050ffe33c16726b7d45658bbfb0f0ae6ab"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v64-3064/TV-FULL-PRO-V64-ARM32.apk",
+      "sha256": "4ce01df68831ba426792fbbfe9041396400f27638810b6c55c895700802fca0e"
     },
     "arm64": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v63-premium-3063/TV-FULL-PRO-V63-ARM64-PRUEBA-FIRMADA.apk",
-      "sha256": "2ee168cafc2f434ca1b680f2fd85defa6041dd6ba4b09a669d55437fb625fc41"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v64-3064/TV-FULL-PRO-V64-ARM64.apk",
+      "sha256": "866ee99fb42c941974267dafb545ccdd0212d449702fa283996b7dbd0a89901b"
     }
   },
-  "release_notes": "V63 limpia desde V62: oculta Play TV Premium de Proveedor 2. Sin YouTube experimental."
+  "release_notes": "V64: mantenimiento y mejoras internas del PIN parental, URLs Xtream y busquedas. Proveedor 2 y reproduccion preservados."
 }
