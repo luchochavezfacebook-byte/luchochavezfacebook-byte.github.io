@@ -1,17 +1,17 @@
 {
-  "version_code": 3064,
-  "version_name": "1.4.32",
+  "version_code": 3065,
+  "version_name": "1.4.33",
   "update_available": true,
   "force_update": false,
   "apk_variants": {
     "arm32": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v64-3064/TV-FULL-PRO-V64-ARM32.apk",
-      "sha256": "4ce01df68831ba426792fbbfe9041396400f27638810b6c55c895700802fca0e"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v65-3065/TV-FULL-PRO-V65-ARM32.apk",
+      "sha256": "ad3063ca46b76905ea5b67c6f8692bc68ec633967dbb1fbf58a95ed9576dd716"
     },
     "arm64": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v64-3064/TV-FULL-PRO-V64-ARM64.apk",
-      "sha256": "866ee99fb42c941974267dafb545ccdd0212d449702fa283996b7dbd0a89901b"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v65-3065/TV-FULL-PRO-V65-ARM64.apk",
+      "sha256": "cebff38d080f722807e99671a5ebe5d5127ee53a1f1b5ff8a37c0562f48ef259"
     }
   },
-  "release_notes": "V64: mantenimiento y mejoras internas del PIN parental, URLs Xtream y busquedas. Proveedor 2 y reproduccion preservados."
+  "release_notes": "V65: Peliculas y Series con carga progresiva, precarga, progreso real, cache optimizada y actualizacion de catalogo cada 6 h. Nuevos controles VOD. LIVE y Proveedor 2 preservados."
 }
