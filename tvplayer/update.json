@@ -1,17 +1,17 @@
 {
-  "version_code": 3065,
-  "version_name": "1.4.33",
+  "version_code": 3067,
+  "version_name": "1.4.35",
   "update_available": true,
   "force_update": false,
   "apk_variants": {
     "arm32": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v65-3065/TV-FULL-PRO-V65-ARM32.apk",
-      "sha256": "ad3063ca46b76905ea5b67c6f8692bc68ec633967dbb1fbf58a95ed9576dd716"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v67-3067/TV-FULL-PRO-V67-ARM32.apk",
+      "sha256": "46de7d4b022c06c5975912e7e6335159a43ebef439835b8051952e9dd23f7e32"
     },
     "arm64": {
-      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v65-3065/TV-FULL-PRO-V65-ARM64.apk",
-      "sha256": "cebff38d080f722807e99671a5ebe5d5127ee53a1f1b5ff8a37c0562f48ef259"
+      "url": "https://github.com/luchochavezfacebook-byte/luchochavezfacebook-byte.github.io/releases/download/v67-3067/TV-FULL-PRO-V67-ARM64.apk",
+      "sha256": "aabcb03274c75b47189abff238eb2c238c20cd65a40308ad9e5761f55ac240bf"
     }
   },
-  "release_notes": "V65: Peliculas y Series con carga progresiva, precarga, progreso real, cache optimizada y actualizacion de catalogo cada 6 h. Nuevos controles VOD. LIVE y Proveedor 2 preservados."
+  "release_notes": "V67: interfaz premium, preconexion al enfocar, buffer inicial inteligente, deteccion HLS y respaldo rapido. Proveedor 2, ClearKey y datos conservados."
 }
